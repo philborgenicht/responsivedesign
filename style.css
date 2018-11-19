@@ -29,3 +29,26 @@ footer{
 li{
   font-size: 12px
 }
+
+.first-button, .first-links{
+  padding-right: 15px
+}
+
+.second-button, .second-links{
+  padding-left: 15px
+}
+
+
+.second{
+  padding-left: 15px
+}
+
+/* Medium Devices (tablets) */
+@media (max-width: 1000px){
+
+  .btn-lg{
+    background-color: orange;
+  }
+
+
+}
